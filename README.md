@@ -1,1 +1,2 @@
 # policies
+The Connecticut Digital Archive provides long term preservation services for nonprofit Connecticut based institutions. It was launched Nov. 13, 2013. The documents in this repository outline policy. Some like the Memorandum of Understanding require the signature of the participating institution to take advantage of CTDA services. 
